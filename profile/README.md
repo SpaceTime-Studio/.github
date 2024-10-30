@@ -3,7 +3,7 @@
 </br>
 
 ## About Here 🎩
-**SpaceTime Studio (?~?): 名 SpaceTime，姓 Studio，一个无法被观测的神秘组织，当然也可能是一些**
+**SpaceTime Studio (?~?): 姓 SpaceTime，名 Studio，一个无法被观测的神秘组织，当然也可能是一些**
 
 ## Contact Here 📢
 **Github: [https://github.com/SpaceTime-Studio](https://github.com/SpaceTime-Studio)**
